@@ -1,0 +1,16 @@
+{
+  "short_name": "swap",
+  "name": "swap",
+  "icons": [
+    {
+      "src": "./favicon.ico",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
